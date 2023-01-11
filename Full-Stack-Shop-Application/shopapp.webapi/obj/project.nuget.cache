@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MpW4bWgj5Og6aHamyoCpZSLUu9n6yyggroyUDTO90i69JOBwOK+z1HSyRiAcI4GzjrWFmPv4KvWzUDxjTIwQYw==",
+  "dgSpecHash": "+WfQEr+G9/lpyr0ZoV0iHRytcY3IW2LemqW1VzMPvXH8Aaa/8gxLHYevPmBJV3SXNu9VFxZANBTRRxCzN+4kkQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Serap\\Desktop\\Full-Stack-Shop-Application-Version_1\\shopapp.webapi\\shopapp.webapi.csproj",
+  "projectFilePath": "C:\\Users\\Serap\\Documents\\GitHub\\WebTabanliProje\\Full-Stack-Shop-Application\\shopapp.webapi\\shopapp.webapi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Serap\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Serap\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.10\\microsoft.aspnetcore.cryptography.internal.5.0.10.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Serap\\Desktop\\Full-Stack-Shop-Application-Version_1\\shopapp.webapi\\shopapp.webapi.csproj": {}
+    "C:\\Users\\Serap\\Documents\\GitHub\\WebTabanliProje\\Full-Stack-Shop-Application\\shopapp.webapi\\shopapp.webapi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Serap\\Desktop\\Full-Stack-Shop-Application-Version_1\\shopapp.business\\shopapp.business.csproj": {
+    "C:\\Users\\Serap\\Documents\\GitHub\\WebTabanliProje\\Full-Stack-Shop-Application\\shopapp.business\\shopapp.business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Serap\\Desktop\\Full-Stack-Shop-Application-Version_1\\shopapp.business\\shopapp.business.csproj",
+        "projectUniqueName": "C:\\Users\\Serap\\Documents\\GitHub\\WebTabanliProje\\Full-Stack-Shop-Application\\shopapp.business\\shopapp.business.csproj",
         "projectName": "shopapp.business",
-        "projectPath": "C:\\Users\\Serap\\Desktop\\Full-Stack-Shop-Application-Version_1\\shopapp.business\\shopapp.business.csproj",
+        "projectPath": "C:\\Users\\Serap\\Documents\\GitHub\\WebTabanliProje\\Full-Stack-Shop-Application\\shopapp.business\\shopapp.business.csproj",
         "packagesPath": "C:\\Users\\Serap\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Serap\\Desktop\\Full-Stack-Shop-Application-Version_1\\shopapp.business\\obj\\",
+        "outputPath": "C:\\Users\\Serap\\Documents\\GitHub\\WebTabanliProje\\Full-Stack-Shop-Application\\shopapp.business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,11 +33,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Serap\\Desktop\\Full-Stack-Shop-Application-Version_1\\shopapp.data\\shopapp.data.csproj": {
-                "projectPath": "C:\\Users\\Serap\\Desktop\\Full-Stack-Shop-Application-Version_1\\shopapp.data\\shopapp.data.csproj"
+              "C:\\Users\\Serap\\Documents\\GitHub\\WebTabanliProje\\Full-Stack-Shop-Application\\shopapp.data\\shopapp.data.csproj": {
+                "projectPath": "C:\\Users\\Serap\\Documents\\GitHub\\WebTabanliProje\\Full-Stack-Shop-Application\\shopapp.data\\shopapp.data.csproj"
               },
-              "C:\\Users\\Serap\\Desktop\\Full-Stack-Shop-Application-Version_1\\shopapp.entity\\shopapp.entity.csproj": {
-                "projectPath": "C:\\Users\\Serap\\Desktop\\Full-Stack-Shop-Application-Version_1\\shopapp.entity\\shopapp.entity.csproj"
+              "C:\\Users\\Serap\\Documents\\GitHub\\WebTabanliProje\\Full-Stack-Shop-Application\\shopapp.entity\\shopapp.entity.csproj": {
+                "projectPath": "C:\\Users\\Serap\\Documents\\GitHub\\WebTabanliProje\\Full-Stack-Shop-Application\\shopapp.entity\\shopapp.entity.csproj"
               }
             }
           }
@@ -71,14 +71,14 @@
         }
       }
     },
-    "C:\\Users\\Serap\\Desktop\\Full-Stack-Shop-Application-Version_1\\shopapp.data\\shopapp.data.csproj": {
+    "C:\\Users\\Serap\\Documents\\GitHub\\WebTabanliProje\\Full-Stack-Shop-Application\\shopapp.data\\shopapp.data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Serap\\Desktop\\Full-Stack-Shop-Application-Version_1\\shopapp.data\\shopapp.data.csproj",
+        "projectUniqueName": "C:\\Users\\Serap\\Documents\\GitHub\\WebTabanliProje\\Full-Stack-Shop-Application\\shopapp.data\\shopapp.data.csproj",
         "projectName": "shopapp.data",
-        "projectPath": "C:\\Users\\Serap\\Desktop\\Full-Stack-Shop-Application-Version_1\\shopapp.data\\shopapp.data.csproj",
+        "projectPath": "C:\\Users\\Serap\\Documents\\GitHub\\WebTabanliProje\\Full-Stack-Shop-Application\\shopapp.data\\shopapp.data.csproj",
         "packagesPath": "C:\\Users\\Serap\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Serap\\Desktop\\Full-Stack-Shop-Application-Version_1\\shopapp.data\\obj\\",
+        "outputPath": "C:\\Users\\Serap\\Documents\\GitHub\\WebTabanliProje\\Full-Stack-Shop-Application\\shopapp.data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -100,8 +100,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Serap\\Desktop\\Full-Stack-Shop-Application-Version_1\\shopapp.entity\\shopapp.entity.csproj": {
-                "projectPath": "C:\\Users\\Serap\\Desktop\\Full-Stack-Shop-Application-Version_1\\shopapp.entity\\shopapp.entity.csproj"
+              "C:\\Users\\Serap\\Documents\\GitHub\\WebTabanliProje\\Full-Stack-Shop-Application\\shopapp.entity\\shopapp.entity.csproj": {
+                "projectPath": "C:\\Users\\Serap\\Documents\\GitHub\\WebTabanliProje\\Full-Stack-Shop-Application\\shopapp.entity\\shopapp.entity.csproj"
               }
             }
           }
@@ -151,14 +151,14 @@
         }
       }
     },
-    "C:\\Users\\Serap\\Desktop\\Full-Stack-Shop-Application-Version_1\\shopapp.entity\\shopapp.entity.csproj": {
+    "C:\\Users\\Serap\\Documents\\GitHub\\WebTabanliProje\\Full-Stack-Shop-Application\\shopapp.entity\\shopapp.entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Serap\\Desktop\\Full-Stack-Shop-Application-Version_1\\shopapp.entity\\shopapp.entity.csproj",
+        "projectUniqueName": "C:\\Users\\Serap\\Documents\\GitHub\\WebTabanliProje\\Full-Stack-Shop-Application\\shopapp.entity\\shopapp.entity.csproj",
         "projectName": "shopapp.entity",
-        "projectPath": "C:\\Users\\Serap\\Desktop\\Full-Stack-Shop-Application-Version_1\\shopapp.entity\\shopapp.entity.csproj",
+        "projectPath": "C:\\Users\\Serap\\Documents\\GitHub\\WebTabanliProje\\Full-Stack-Shop-Application\\shopapp.entity\\shopapp.entity.csproj",
         "packagesPath": "C:\\Users\\Serap\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Serap\\Desktop\\Full-Stack-Shop-Application-Version_1\\shopapp.entity\\obj\\",
+        "outputPath": "C:\\Users\\Serap\\Documents\\GitHub\\WebTabanliProje\\Full-Stack-Shop-Application\\shopapp.entity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -211,14 +211,14 @@
         }
       }
     },
-    "C:\\Users\\Serap\\Desktop\\Full-Stack-Shop-Application-Version_1\\shopapp.webapi\\shopapp.webapi.csproj": {
+    "C:\\Users\\Serap\\Documents\\GitHub\\WebTabanliProje\\Full-Stack-Shop-Application\\shopapp.webapi\\shopapp.webapi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Serap\\Desktop\\Full-Stack-Shop-Application-Version_1\\shopapp.webapi\\shopapp.webapi.csproj",
+        "projectUniqueName": "C:\\Users\\Serap\\Documents\\GitHub\\WebTabanliProje\\Full-Stack-Shop-Application\\shopapp.webapi\\shopapp.webapi.csproj",
         "projectName": "shopapp.webapi",
-        "projectPath": "C:\\Users\\Serap\\Desktop\\Full-Stack-Shop-Application-Version_1\\shopapp.webapi\\shopapp.webapi.csproj",
+        "projectPath": "C:\\Users\\Serap\\Documents\\GitHub\\WebTabanliProje\\Full-Stack-Shop-Application\\shopapp.webapi\\shopapp.webapi.csproj",
         "packagesPath": "C:\\Users\\Serap\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Serap\\Desktop\\Full-Stack-Shop-Application-Version_1\\shopapp.webapi\\obj\\",
+        "outputPath": "C:\\Users\\Serap\\Documents\\GitHub\\WebTabanliProje\\Full-Stack-Shop-Application\\shopapp.webapi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -240,14 +240,14 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Serap\\Desktop\\Full-Stack-Shop-Application-Version_1\\shopapp.business\\shopapp.business.csproj": {
-                "projectPath": "C:\\Users\\Serap\\Desktop\\Full-Stack-Shop-Application-Version_1\\shopapp.business\\shopapp.business.csproj"
+              "C:\\Users\\Serap\\Documents\\GitHub\\WebTabanliProje\\Full-Stack-Shop-Application\\shopapp.business\\shopapp.business.csproj": {
+                "projectPath": "C:\\Users\\Serap\\Documents\\GitHub\\WebTabanliProje\\Full-Stack-Shop-Application\\shopapp.business\\shopapp.business.csproj"
               },
-              "C:\\Users\\Serap\\Desktop\\Full-Stack-Shop-Application-Version_1\\shopapp.data\\shopapp.data.csproj": {
-                "projectPath": "C:\\Users\\Serap\\Desktop\\Full-Stack-Shop-Application-Version_1\\shopapp.data\\shopapp.data.csproj"
+              "C:\\Users\\Serap\\Documents\\GitHub\\WebTabanliProje\\Full-Stack-Shop-Application\\shopapp.data\\shopapp.data.csproj": {
+                "projectPath": "C:\\Users\\Serap\\Documents\\GitHub\\WebTabanliProje\\Full-Stack-Shop-Application\\shopapp.data\\shopapp.data.csproj"
               },
-              "C:\\Users\\Serap\\Desktop\\Full-Stack-Shop-Application-Version_1\\shopapp.entity\\shopapp.entity.csproj": {
-                "projectPath": "C:\\Users\\Serap\\Desktop\\Full-Stack-Shop-Application-Version_1\\shopapp.entity\\shopapp.entity.csproj"
+              "C:\\Users\\Serap\\Documents\\GitHub\\WebTabanliProje\\Full-Stack-Shop-Application\\shopapp.entity\\shopapp.entity.csproj": {
+                "projectPath": "C:\\Users\\Serap\\Documents\\GitHub\\WebTabanliProje\\Full-Stack-Shop-Application\\shopapp.entity\\shopapp.entity.csproj"
               }
             }
           }

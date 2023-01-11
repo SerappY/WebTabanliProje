@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GJJOdG4Yp8ZqGjrrOXQU0IvPFF8ARk6wvKOezdkokWboBrXAEpbKbEOtuWH+i78RMmQuiRQzhyNEZZ1oNLSWEg==",
+  "dgSpecHash": "uQpUd18p99dWjU6Lftn1BKBomHPKcZGxolCAqv5zD0EyIO2ubL+EwLOufx63raGZ4qvImZd9F3llLB6u/kQCvA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Serap\\Desktop\\Full-Stack-Shop-Application-Version_1\\shopapp.data\\shopapp.data.csproj",
+  "projectFilePath": "C:\\Users\\Serap\\Documents\\GitHub\\WebTabanliProje\\Full-Stack-Shop-Application\\shopapp.data\\shopapp.data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Serap\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Serap\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

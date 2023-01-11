@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bRHEecMaZlxGEDfY5Szad1wY4rwTRkZVPT2vjnBCbwquRGRg5HFp4iAj+zAS3GGM+emNbmm80+pbjv1nG13+Ow==",
+  "dgSpecHash": "bOKpQzqetp3ghVDDOaRtIOfzw2Hy4rhwjzhssIzLeBjvUBmtpAfqHiE2oSoN/EYuc8/Uu8GniB9J6TCzCL5T4w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Serap\\Desktop\\Full-Stack-Shop-Application-Version_1\\shopapp.business\\shopapp.business.csproj",
+  "projectFilePath": "C:\\Users\\Serap\\Documents\\GitHub\\WebTabanliProje\\Full-Stack-Shop-Application\\shopapp.business\\shopapp.business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Serap\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Serap\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
